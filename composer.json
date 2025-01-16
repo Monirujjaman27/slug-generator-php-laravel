@@ -1,6 +1,6 @@
 {
     "name": "monirujjaman27/unique-slug-generator",
-    "description": "unique slug-generator",
+    "description": "unique slug-generator for php laravel",
     "type": "composer-plugin",
     "license": "MIT",
     "autoload": {
