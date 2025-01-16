@@ -1,6 +1,5 @@
 # Slug Generator For Laravel 
-
-
+<a  target="_blank" href="https://packagist.org/packages/monirujjaman27/unique-slug-generator">🚀 Package on packagist.org</a>
 
 ### 📌 Install via Composer
 Run the following command to install the package:
