@@ -1,0 +1,30 @@
+{
+    "name": "monirujjaman27/unique-slug-generator",
+    "description": "unique slug-generator",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Monirujjaman27\\UniqueSlugGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Monirujjaman27",
+            "email": "mdmunirujjaman045@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Monirujjaman27\\UniqueSlugGenerator\\SlugGeneratorServiceProvider"
+            ],
+            "aliases": {
+                "Debugbar": "Monirujjaman27\\UniqueSlugGenerator\\UniqueSugFacade"
+            }
+        }
+    }
+}
