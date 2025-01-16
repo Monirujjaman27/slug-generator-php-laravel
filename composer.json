@@ -1,7 +1,12 @@
 {
     "name": "monirujjaman27/unique-slug-generator",
     "description": "unique slug-generator for php laravel",
-    "type": "composer-plugin",
+    "keywords": [
+        "slug generator",
+        "laravel-slug",
+        "slug"
+    ],
+    "homepage": "https://github.com/Monirujjaman27/slug-generator-php-laravel",
     "license": "MIT",
     "autoload": {
         "psr-4": {
